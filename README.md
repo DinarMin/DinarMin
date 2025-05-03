@@ -35,7 +35,7 @@
 
   ## <h3>📫 Contact: </h3>
   <p>
-    <a href="Dinar2202@gmail.com"><img alt="Adobe" src="https://custom-icon-badges.demolab.com/badge/-GMAIL-c71610?style=for-the-badge&logoColor=white&logo=gmail"></a></br>
-    <a href="https://t.me/Dinar2202"><img alt="Adobe" src="https://custom-icon-badges.demolab.com/badge/-Telegram-0885d2?style=for-the-badge&logoColor=white&logo=telegram"></a></br>
-    <a href="www.linkedin.com/in/dinar2202Dinar2202@gmail.com"><img alt="Adobe" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-09bbbe?style=for-the-badge&logoColor=white&logo=Linke"></a>
+    <a href="Dinar2202@gmail.com"><img alt="gmail" src="https://custom-icon-badges.demolab.com/badge/-GMAIL-c71610?style=for-the-badge&logoColor=white&logo=gmail"></a></br>
+    <a href="https://t.me/Dinar2202"><img alt="telegram" src="https://custom-icon-badges.demolab.com/badge/-Telegram-0885d2?style=for-the-badge&logoColor=white&logo=telegram"></a></br>
+    <a href="https://www.linkedin.com/in/dinar2202/"><img alt="linkedin" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-09bbbe?style=for-the-badge&logoColor=white&logo=Linke"></a>
   </p>
