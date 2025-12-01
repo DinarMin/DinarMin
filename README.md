@@ -14,6 +14,7 @@
   <p> 
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+    <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-e0234e.svg?logo=nestjs&logoColor=white"></a>
 
   </p>
   <h3>🗄️ Databases and Cloud Hosting</h3>
