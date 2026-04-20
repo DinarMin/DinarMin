@@ -33,16 +33,7 @@
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
   </p>
-
-## <h3>📫 Contact: </h3>
-
-  <p>
-    <a href="mailto:Dinar2202@gmail.com">
-    <img alt="gmail" src="https://custom-icon-badges.demolab.com/badge/-GMAIL-c71610?style=for-the-badge&logoColor=white&logo=gmail"></a><br>
-    <a href="https://t.me/Dinar2202"><img alt="telegram" src="https://custom-icon-badges.demolab.com/badge/-Telegram-0885d2?style=for-the-badge&logoColor=white&logo=telegram"></a></br>
-    <a href="https://www.linkedin.com/in/dinar2202/"><img alt="linkedin" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-09bbbe?style=for-the-badge&logoColor=white&logo=Linke"></a>
-  </p>
-
+  
   <p style=font-size:14px>
     Thanks for stopping by! </br>
     Open to interesting projects and collaborations 🤝
@@ -84,15 +75,6 @@
     <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
-  </p>
-
-## <h3>📫 Контакты: </h3>
-
-  <p>
-    <a href="mailto:Dinar2202@gmail.com">
-    <img alt="gmail" src="https://custom-icon-badges.demolab.com/badge/-GMAIL-c71610?style=for-the-badge&logoColor=white&logo=gmail"></a><br>
-    <a href="https://t.me/Dinar2202"><img alt="telegram" src="https://custom-icon-badges.demolab.com/badge/-Telegram-0885d2?style=for-the-badge&logoColor=white&logo=telegram"></a></br>
-    <a href="https://www.linkedin.com/in/dinar2202/"><img alt="linkedin" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-09bbbe?style=for-the-badge&logoColor=white&logo=Linke"></a>
   </p>
 
   <p style=font-size:14px>
